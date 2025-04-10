@@ -1,0 +1,86 @@
+/* #heading{
+    background-color: brown;
+    color: blue;
+}
+.top{
+    color: rgb(0, 255, 55);
+}
+
+
+.content{
+    color: yellow;
+}
+
+.water{
+    background-color: green;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: rgb(47, 255, 0);
+}
+button{
+    background-color: blue;
+    color: white;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: rgb(255, 10, 10);
+    border: 1px solid black;
+} */
+#heading{
+    background-color: #16d9eb;
+}
+p{
+    color:#C28EA7;
+}
+.black{
+    background-color: black;
+    color: green;
+}
+.green{
+    background-color: green;
+    color: black;
+}
+
+body{
+    background-color: lightgreen;
+    text-align: center;
+}
+.thunder{
+    height: 100px;
+    width: 100px;
+    /* padding: 3px 3px; */
+    /* margin-top: 100px; */
+    outline-style: solid;
+    border-radius:  3px;
+    outline-color: #15A3EF;
+    /* outline-color: #f05d0e; */
+    margin-bottom: 5px;
+    margin-right: 1.8px;
+    /* padding-top: 50px; */
+  /* padding-right: 30px; */
+  /* padding-bottom: 0px; */
+  /* padding-left: 80px; */
+
+    /* background-color: rgb(55, 0, 255); */
+    /* border:blue;
+    border-bottom: 1px,solid,blue; */
+}
+.reset{
+    height: 50px;
+    width: 100px;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: #b0413e;
+    background-color: #191913;
+}
+/* .BlaWinner{
+    display: none;
+}
+.GreWinner{
+    display: none;
+} */
+.hide{
+    display: none;
+}
